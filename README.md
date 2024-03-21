@@ -7,4 +7,37 @@ click [👆here👆](https://www.kaggle.com/code/hassaneskikri/statistical-analy
 
 ![diagram](https://github.com/HassaneSkikri/Statistics/assets/141918886/8e2ed79c-f948-4e35-ba30-13cd07b62750)
 
-### 
+### What is Descriptive Statistics and what are the types of DS? 
+
+click [👆here👆](https://www.kaggle.com/code/hassaneskikri/descriptive-statistics-definition-and-types?scriptVersionId=168212241)
+
+### What is the probability distribution and their types ...
+
+click [👆here👆]()
+
+
+
+### What is inferential statistics?
+
+click [👆here👆]()
+
+
+
+### What is the Degree of Freedom in inferential statistics?
+
+click [👆here👆](https://www.kaggle.com/code/hassaneskikri/statistics-degrees-of-freedom?scriptVersionId=168214655)
+
+
+### What is the probability distribution and their types ...
+
+click [👆here👆]()
+
+
+### What is the probability distribution and their types ...
+
+click [👆here👆]()
+
+
+### What is the probability distribution and their types ...
+
+click [👆here👆]()
