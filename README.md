@@ -15,7 +15,7 @@ Explore our informative diagram that visualizes all the steps covered:
 Enhance your knowledge with these focused notebooks:
 
 - [**Descriptive Statistics: Definition and Types**](https://www.kaggle.com/code/hassaneskikri/descriptive-statistics-definition-and-types?scriptVersionId=168212241): Uncover the fundamentals and types of Descriptive Statistics (DS).
-- [**Probability Distribution and Its Types**](https://www.kaggle.com/code/hassaneskikri/overview-inferential-statistics-part-1?scriptVersionId=168282975): Explore the various probability distributions and their significance.
+- [**Probability Distribution and Its Types**](https://github.com/HassaneSkikri/Statistics/blob/main/probability-distribution%20(1).ipynb): Explore the various probability distributions and their significance.
 - [**Inferential Statistics Overview**](https://www.kaggle.com/code/hassaneskikri/overview-inferential-statistics-part-1?scriptVersionId=168282975): Get acquainted with Inferential Statistics and how it helps in making predictions.
 - [**Degrees of Freedom in Statistics**](https://www.kaggle.com/code/hassaneskikri/statistics-degrees-of-freedom?scriptVersionId=168214655): Learn about the concept of Degrees of Freedom and its importance.
 
