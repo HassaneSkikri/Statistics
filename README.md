@@ -1,43 +1,33 @@
-# Statistics
+# Statistics for Data Science: A Step-by-Step Guide
 
-#### This repository contains a series of notebooks, each focusing on a specific concept about statistics for data science. This is a step-by-step project, so let's discover the first notebook, which is about `Statistical analysis step by step.` This notebook includes all the steps you need to master statistics and the concepts you need to understand, with an example at the end. To unlock this notebook,
-click [👆here👆](https://www.kaggle.com/code/hassaneskikri/statistical-analysis-step-by-step?scriptVersionId=168211682)
+## Getting Started
 
-#### you can view all these steps in this diagram: 
+foundational notebook:
 
-![diagram](https://github.com/HassaneSkikri/Statistics/assets/141918886/8e2ed79c-f948-4e35-ba30-13cd07b62750)
+- [**Statistical Analysis Step by Step**](https://www.kaggle.com/code/hassaneskikri/statistical-analysis-step-by-step?scriptVersionId=168211682): Master the essential steps and concepts of statistics, featuring a detailed example to solidify your understanding.
 
-### What is Descriptive Statistics and what are the types of DS? 
+Explore our informative diagram that visualizes all the steps covered:
 
-click [👆here👆](https://www.kaggle.com/code/hassaneskikri/descriptive-statistics-definition-and-types?scriptVersionId=168212241)
+- ![diagram](https://github.com/HassaneSkikri/Statistics/assets/141918886/8e2ed79c-f948-4e35-ba30-13cd07b62750)
 
-### What is the probability distribution and their types ...
+## Dive Deeper
 
-click [👆here👆]()
+Enhance your knowledge with these focused notebooks:
 
+- [**Descriptive Statistics: Definition and Types**](https://www.kaggle.com/code/hassaneskikri/descriptive-statistics-definition-and-types?scriptVersionId=168212241): Uncover the fundamentals and types of Descriptive Statistics (DS).
+- [**Probability Distribution and Its Types**](https://www.kaggle.com/code/hassaneskikri/overview-inferential-statistics-part-1?scriptVersionId=168282975): Explore the various probability distributions and their significance.
+- [**Inferential Statistics Overview**](https://www.kaggle.com/code/hassaneskikri/overview-inferential-statistics-part-1?scriptVersionId=168282975): Get acquainted with Inferential Statistics and how it helps in making predictions.
+- [**Degrees of Freedom in Statistics**](https://www.kaggle.com/code/hassaneskikri/statistics-degrees-of-freedom?scriptVersionId=168214655): Learn about the concept of Degrees of Freedom and its importance.
 
+## Advanced Topics
 
-### What is inferential statistics?
+For those ready to take their skills to the next level:
 
-click [👆here👆]()
-
-
-
-### What is the Degree of Freedom in inferential statistics?
-
-click [👆here👆](https://www.kaggle.com/code/hassaneskikri/statistics-degrees-of-freedom?scriptVersionId=168214655)
-
-
-### What is the probability distribution and their types ...
-
-click [👆here👆]()
-
-
-### What is the probability distribution and their types ...
-
-click [👆here👆]()
-
-
-### What is the probability distribution and their types ...
-
-click [👆here👆]()
+- [**Central Limit Theorem**](https://www.kaggle.com/code/hassaneskikri/central-limit-theorem-statistic?scriptVersionId=168271284)
+- [**Standard Error Estimation**](https://www.kaggle.com/code/hassaneskikri/standard-error-estimation-inferential-statistic?scriptVersionId=168272317)
+- [**Hypothesis Testing**](https://www.kaggle.com/code/hassaneskikri/hypothesis-testing?scriptVersionId=168270717)
+- [**Choosing the Right Statistical Test**](https://www.kaggle.com/code/hassaneskikri/choosing-the-right-statistical-test-types?scriptVersionId=168272562)
+- [**T-test Statistics**](https://www.kaggle.com/code/hassaneskikri/t-tests-statistical-tests?scriptVersionId=168274997)
+- [**ANOVAs (Analysis of Variance)**](https://www.kaggle.com/code/hassaneskikri/anovas-statistical-tests?scriptVersionId=168273836)
+- [**Chi-square Tests**](https://www.kaggle.com/code/hassaneskikri/chi-square-statistical-tests?scriptVersionId=168275828)
+- [**Effect Size**](https://www.kaggle.com/code/hassaneskikri/effect-size-statistical-test?scriptVersionId=168277152)
